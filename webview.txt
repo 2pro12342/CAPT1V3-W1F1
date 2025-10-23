@@ -1,0 +1,17 @@
+I found a WebView exploit that works on either the sign-in screen or the Kiosk Apps. (TestNav, Illuminate Secure, etc.) Basically when you sign in to a WIFI network 
+like McDonald's or (District name) Guest, it opens a window called "Captive Portal".
+
+NOTE: If trying to make the Captive Portal work on a phone, iPhone will not work due to apple limitations with WIFI. BUT if on an Android phone, use Tasker.
+
+If you are able to open the window up (with McDonald's WIFI or other):
+1: Click sign in with google account.
+2: Click Privacy > waffle dots (9 dots).
+3: Click Google.
+
+Things noticed (some things are limited): Cannot right click, cannot change URL in URL bar, cannot use shortcuts, chrome urls (I have not tested if chrome URLs work), 
+cannot install apps (have not tested chrome extensions), cannot open new windows (probably not in incognito mode), and others. 
+(Have not tried going forward and backward on the window.)
+
+I have not tested the WebView when clicked the sign in with google on Captive Portal WIFI. All I know that is it pops up a window.
+
+If you are wondering how i did/know this (on Things Noticed), I used school guest WIFI, but it says connection not secure.
