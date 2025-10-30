@@ -1,0 +1,18 @@
+The first method doesn't allow you to click on sign in with google or doesn't work through only the sign in page so, you can do this method. 
+
+found out that my iphone internet stopped working and when connected another device to my phone, brings to verison internet captive portal.
+
+Method 2 (Google Support on Kiosk Apps): 
+1: Sign Out. 
+2: Turn off Wifi. 
+3: Go to Kiosk Apps is bottom left (TestNav, Fastbridge, BrowserTestSecure, etc.) 
+4: When trying to connect to wifi, use the captive portal wifi. (only use your phone wifi) 
+5: Click on sign in wifi. 
+6: When the window opens, wait util the page loads or it says the connection was reset/lost. 
+7: click on the web site info button. (the "i" button next to the url) 
+8: click the help/learn more/google support link highlighted blue. 
+9: click the waffle. (9 dots) 
+10: Click Google. 
+
+If can't connect to wifi, Use this Method. 
+Method 3 ():
