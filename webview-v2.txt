@@ -20,5 +20,7 @@ If can't connect to wifi in Kiosk Apps, Use this Method.
 Method 2.B (Google Support on): 
 1: Sign In 
 2: Use the Captive Portal Wifi. (phone, school guest, wifi guest, Mcdonalds, coffee shop, etc.) 
-3: 
+3: Do #5 - #10
+
+Enjoy!
 
